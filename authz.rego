@@ -2,7 +2,7 @@ package system.authz
 
 default allow := {
   "allowed": false,
-  "reason": "unauthorized resource accaess"
+  "reason": "unauthorized resourcsse accaess"
 }
 
 allow := { "allowed": true, "reason": reason } {
