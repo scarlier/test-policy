@@ -1,3 +1,3 @@
 package test
 
-default allow := test
+default allow := true
